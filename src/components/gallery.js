@@ -17,13 +17,21 @@ const Gallery = () => {
             <p className=" text-4xl font-Outfit text-white mt-8 leading-none">Explore Our Outstanding Works Today</p>
             <div className=" grid w-full grid-cols-3 gap-[16px] mt-16">
                 <div style={{backgroundImage:`url(${img1})`, backgroundPosition:'center', backgroundSize:'cover'}} className=" bg-[#ffffff9e] w-full h-[230px] rounded-md"></div>
+
                 <div style={{backgroundImage:`url(${img2})`, backgroundPosition:'center', backgroundSize:'cover'}} className=" bg-[#ffffff9e] w-full h-[230px] rounded-md"></div>
+
                 <div style={{backgroundImage:`url(${img3})`, backgroundPosition:'center', backgroundSize:'cover'}} className=" bg-[#ffffff9e] w-full h-[230px] rounded-md"></div>
+
                 <div style={{backgroundImage:`url(${img5})`, backgroundPosition:'center', backgroundSize:'cover'}} className=" bg-[#ffffff9e] w-full h-[230px] rounded-md"></div>
+
                 <div style={{backgroundImage:`url(${img4})`, backgroundPosition:'center', backgroundSize:'cover'}} className=" bg-[#ffffff9e] w-full h-[230px] rounded-md"></div>
+
                 <div style={{backgroundImage:`url(${img6})`, backgroundPosition:'center', backgroundSize:'cover'}} className=" bg-[#ffffff9e] w-full h-[230px] rounded-md"></div>
+
                 <div style={{backgroundImage:`url(${img7})`, backgroundPosition:'center', backgroundSize:'cover'}} className=" bg-[#ffffff9e] w-full h-[230px] rounded-md"></div>
+
                 <div style={{backgroundImage:`url(${img8})`, backgroundPosition:'center', backgroundSize:'cover'}} className=" bg-[#ffffff9e] w-full h-[230px] rounded-md"></div>
+                
                 <div style={{backgroundImage:`url(${img9})`, backgroundPosition:'center', backgroundSize:'cover'}} className=" bg-[#ffffff9e] w-full h-[230px] rounded-md"></div>
             </div>
         </div>
